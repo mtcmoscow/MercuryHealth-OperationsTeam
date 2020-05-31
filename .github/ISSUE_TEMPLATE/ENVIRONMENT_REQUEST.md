@@ -1,14 +1,14 @@
 ---
-name: Environment Request
-about: Submit a request to create a new hosting environment for your app
+name: Запрос на создание среды
+about: Отправьте запрос на созданию среды развертывания для вашего приложения
 ---
 
-### Application Information
+### Информация о приложении
 Application Name: 
 Business Justification: 
 Link to Application Repo: 
 
-### Technical Information
+### Техническая информация
 **Host Environment Type:**
 - [ ] General Compute/VMs (load-balanced Windows VM Scale Set)
 - [ ] Web App Hosting (Azure App Service+SQL Database combination)
