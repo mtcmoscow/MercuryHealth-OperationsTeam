@@ -9,13 +9,13 @@ Business Justification:
 Link to Application Repo: 
 
 ### Техническая информация
-**Host Environment Type:**
+**Тип ресурсов:**
 - [ ] General Compute/VMs (load-balanced Windows VM Scale Set)
 - [ ] Web App Hosting (Azure App Service+SQL Database combination)
 - [ ] Container App (Azure Kubernetes Service)
 - [ ] Serverless/Event-Driven (Azure Function App environment)
 
-### Security
-**Compliance Requirements:**
+### Безопасность
+**Compliance требования:**
 - [ ] PCI-DSS (for apps that process payment information)
 - [ ] HIPAA (for apps that store health information)
